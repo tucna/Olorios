@@ -7,7 +7,7 @@ One of the projects from my childhood. I am not sure if it is even compilable bu
   <em>The flickering is not a bug but "feature" - scene rendering is VERY unoptimized and computational heavy.</em>
 </p>
 
-- Sources codes are in Czech language.
+- Source code is in Czech language.
 - Binaries can be run using [DOSBox](https://www.dosbox.com/)
 
 There are three `exe` files included:
